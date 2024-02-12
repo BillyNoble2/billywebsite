@@ -11,7 +11,7 @@ export default function NavBar () {
     return(
         <div>
             <div className = "Heading">
-                <h1>Billy Noble</h1>
+                <h1 id = "Title">Billy Noble</h1>
                 <h2>Graduate Software Developer</h2>
             </div>
             <div className="NavBar">

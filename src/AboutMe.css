@@ -1,0 +1,20 @@
+.AboutHeader{
+    font-family: "Open Sans", sans-serif;
+    color: #007ea7;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 10pt;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.AboutBody{
+    color: #007ea7;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12pt;
+    letter-spacing: 2px;
+}
+.About{
+    text-align: center
+;}

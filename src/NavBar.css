@@ -1,6 +1,7 @@
 
-h1{
+#Title{
     font-family: "Open Sans", sans-serif;
+    color: #007ea7;
     margin-top: 0;
     margin-bottom: 0;
     font-size: 36pt;
@@ -10,6 +11,7 @@ h1{
 }
 h2{
     font-family: "Open Sans", sans-serif;
+    color: #007ea7;
     margin: 0;
     letter-spacing: 2px;
     text-decoration: none;
@@ -22,7 +24,7 @@ button{
     letter-spacing: 2px;
     text-decoration: none;
     text-transform: uppercase;
-    color: #000;
+    color: #007ea7;
     cursor: pointer;
     border: 3px solid;
     padding: 0.25em 0.5em;
@@ -31,7 +33,7 @@ button{
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    background-color: lightblue;
+    background-color: #323031;
     margin: 20px;
 }
 
